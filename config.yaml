@@ -1,0 +1,12 @@
+program_version: v1
+
+# list of required emotions
+emotions:
+  - happy
+  - sad
+  - neutral
+  - surprised
+  - angry
+
+# path for downloading
+path: uploads\
