@@ -24,7 +24,7 @@ $  File was deleted
 This project uses the [Flask](http://flask.pocoo.org/) framework.
 
 ```
-DokuScketch
+API_Py_Photos_for_ML
 	├── helpers
 	│   └── sqlalchemyclass.py
 	├── .gitignore
